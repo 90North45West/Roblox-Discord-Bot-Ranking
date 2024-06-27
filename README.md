@@ -35,13 +35,15 @@ A Discord bot to update user roles based on their ranking using the latest versi
 
 Use the `/update` command followed by the username and role to update a user's role.
 
-**Example:**
+**Example:** /update username role
 
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for details.
 
+## Additional
 
+Repository works with sites like render & betterstacks for hosting utilisation purposes.
 
 ## Contact
 
